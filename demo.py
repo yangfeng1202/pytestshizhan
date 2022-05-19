@@ -10,4 +10,4 @@
 from testing.demo2 import *
 
 print(hello)
-f()
+print("dfasdfs")
